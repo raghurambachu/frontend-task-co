@@ -2,12 +2,6 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-*,
-*::before,
-*::after {
-  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-}
-
 // Entire thing is made of Tailwind CSS
 // Below CSS/Animation is only for Loading(while page load)
 // Loader
